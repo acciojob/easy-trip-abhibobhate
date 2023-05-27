@@ -77,4 +77,9 @@ public class Flight {
         this.duration = duration;
     }
 
+//    public City getFromCity(){
+//        return this.fromCity;
+//    }
+
+
 }
